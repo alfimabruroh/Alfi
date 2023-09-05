@@ -1,3 +1,13 @@
+.header{
+  background-color: #20B2AA;
+}
+.main{
+  background-color: #48D1CC;
+}
+.footer{
+  background-color: #E0FFFF;
+}
+
 h1{
   /* Gantikan warna ke #8B0000 */
   color: #8B0000;
@@ -12,14 +22,13 @@ h1{
   color: #e6855e;
   font-size: 30px;
   background-color:#6495ED;
-  height:80px;
-  width:200px;
+  height:35px;
+  width:520px;
 
 }
 
 img {
-  height:50px;
-  width:70px;
+  width:400px;
 
 }
 
@@ -28,6 +37,6 @@ li {
 }
 
 
-.selected{
+li.selected{
   color:#ff0000;
 }
