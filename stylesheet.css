@@ -2,7 +2,7 @@
   background-color: #20B2AA;
   float:left;
   padding: 33px 20px;
-  li {
+li {
   color:#444;
 }
 li.selected{
