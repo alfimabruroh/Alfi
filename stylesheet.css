@@ -1,5 +1,6 @@
 .header{
   background-color: #20B2AA;
+  height: 90px;
   float:left;
   padding: 33px 20px;
 }
@@ -8,12 +9,14 @@
 
 .main{
   background-color: #48D1CC;
+  height: 600px;
 }
 
 
 
 .footer{
   background-color: #E0FFFF;
+  height:200px;
 }
 
 h1{
