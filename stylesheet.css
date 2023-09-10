@@ -2,6 +2,13 @@
   background-color: #20B2AA;
   float:left;
   padding: 33px 20px;
+  li {
+  color:#444;
+}
+li.selected{
+  color:#ff0000;
+}
+
 }
 .main{
   background-color: #48D1CC;
@@ -28,12 +35,3 @@ h1{
   width:420px;
 }
 
-
-li {
-  color:#444;
-}
-
-
-li.selected{
-  color:#ff0000;
-}
