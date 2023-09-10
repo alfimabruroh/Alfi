@@ -1,6 +1,6 @@
 .header{
   background-color: #20B2AA;
-  height: 130px;
+  height: 160px;
 }
 
 
@@ -25,14 +25,6 @@ h1{
 p {
   /* Gantikan warna ke #008B8B */
   color: #008B8B;
-}
-
-h1{
-  color: #e6855e;
-  font-size: 30px;
-  background-color:#6495ED;
-  height:35px;
-  width:420px;
 }
 
 li {
