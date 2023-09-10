@@ -1,5 +1,7 @@
 .header{
   background-color: #20B2AA;
+  float:left;
+  padding: 33px 20px;
 }
 .main{
   background-color: #48D1CC;
@@ -29,8 +31,6 @@ h1{
 
 li {
   color:#444;
-  float:left;
-  padding:33px 20px;
 }
 
 
